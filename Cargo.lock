@@ -2844,9 +2844,9 @@ dependencies = [
 
 [[package]]
 name = "specta"
-version = "2.0.0-rc.12"
+version = "2.0.0-rc.13"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "3624a07cbde326fdf1ec37cbd39d06a224660fa0199b7db7316f2349583df981"
+checksum = "4ebf48e468c721a5c988aaad26f671d749a2831cf92ef3fcc89b3ac033392c62"
 dependencies = [
  "once_cell",
  "paste",
@@ -2857,9 +2857,9 @@ dependencies = [
 
 [[package]]
 name = "specta-macros"
-version = "2.0.0-rc.10"
+version = "2.0.0-rc.13"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ef33e9678ae36993fcbfc46aa29568ef10d32fd54428808759c6a450998c43ec"
+checksum = "1dbb681fb9262be852c614fd7633b46081131fc63b445345b2d8f870ec751ac8"
 dependencies = [
  "Inflector",
  "proc-macro2",
